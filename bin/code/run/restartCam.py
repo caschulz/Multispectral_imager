@@ -1,0 +1,1 @@
+#this file should restart the thermal camera
